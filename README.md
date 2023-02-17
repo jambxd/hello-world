@@ -1,3 +1,5 @@
-Hi, I’m Jam
+Hi, I’m Jam 👋
 
-Working full-time and learning web development on the side. 🌱
+I'm a full-time Structural Engineer currently learning to Python to improve my workflow.
+
+It might be a slow process, but I believe in becoming 1% better everyday 
